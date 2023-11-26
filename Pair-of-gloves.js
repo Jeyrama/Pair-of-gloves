@@ -34,3 +34,5 @@ function numberOfPairs(gloves) {
   }
   return pairs;
 }
+
+// or
